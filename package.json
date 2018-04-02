@@ -1,0 +1,20 @@
+{
+  "name": "vuex-store-action",
+  "version": "1.0.0",
+  "description": "Action and Mutation Utilities for Vuex",
+  "keywords": ["vue", "vuex", "store", "action"],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dunz/vuex-store-action.git"
+  },
+  "author": "dunz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dunz/vuex-store-action/issues"
+  },
+  "homepage": "https://github.com/dunz/vuex-store-action#readme"
+}
