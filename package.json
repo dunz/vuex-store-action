@@ -1,6 +1,6 @@
 {
   "name": "vuex-store-action",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Action and Mutation Utilities for Vuex",
   "keywords": ["vue", "vuex", "store", "action"],
   "main": "index.js",
